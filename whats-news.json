@@ -4,5 +4,12 @@
 		"changes": [
 			"Pre-Release"
 		]
+	},
+	{
+		"version": "1.1.9",
+		"changes": [
+			"Fix Delete Error",
+			"Add Launch Browsers"
+		]
 	}
 ]
